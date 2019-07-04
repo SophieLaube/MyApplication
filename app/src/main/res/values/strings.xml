@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">TodoApp</string>
     <string name="type_here">Type Here</string>
+    <string name="add">Add</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="recently_added">Recently added</string>
+    <string name="delete_selected_item">Delete Selected Item ?</string>
+    <string name="delete">Delete</string>
+    <string name="clear_all">Clear All</string>
+    <string name="empty_view">Add Some Notes</string>
 </resources>
